@@ -1,0 +1,7 @@
+A pasta .git e onde ficam as informacoes que fazem o Git funcionar no projeto.
+
+O HEAD indica em qual posicao do historico eu estou trabalhando.
+
+A pasta refs guarda referencias para os commits e branches do repositorio.
+
+O arquivo config guarda algumas configuracoes do Git daquele repositorio.
